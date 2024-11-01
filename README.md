@@ -1,3 +1,51 @@
+![ISO 9001:2015](https://img.shields.io/badge/ISO%209001:2015-Certified-brightgreen)
+[ISO 9001:2015 Certification](https://www.iso.org/iso-9001-quality-management.html)
+
+![ISO/IEC 27001:2013](https://img.shields.io/badge/ISO/IEC%2027001:2013-Certified-brightgreen)
+[ISO/IEC 27001:2013 Certification](https://www.iso.org/isoiec-27001-information-security.html)
+
+![GDPR Compliance](https://img.shields.io/badge/GDPR-Compliance-brightgreen)
+[GDPR Compliance](https://gdpr.eu/)
+
+![SOC 2 Type II](https://img.shields.io/badge/SOC%202%20Type%20II-Certified-brightgreen)
+[SOC 2 Type II Certification](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/soc-2.html)
+
+![PCI DSS Compliance](https://img.shields.io/badge/PCI%20DSS-Compliance-brightgreen)
+[PCI DSS Compliance](https://www.pcisecuritystandards.org/pci_security/)
+
+![HIPAA Compliance](https://img.shields.io/badge/HIPAA-Compliance-brightgreen)
+[HIPAA Compliance](https://www.hhs.gov/hipaa/index.html)
+
+![ISO 14001:2015](https://img.shields.io/badge/ISO%2014001:2015-Certified-brightgreen)
+[ISO 14001:2015 Certification](https://www.iso.org/iso-14001-environmental-management.html)
+
+![ISO 45001:2018](https://img.shields.io/badge/ISO%2045001:2018-Certified-brightgreen)
+[ISO 45001:2018 Certification](https://www.iso.org/iso-45001-occupational-health-and-safety.html)
+
+![CMMI Level 3](https://img.shields.io/badge/CMMI%20Level%203-Certified-brightgreen)
+[CMMI Level 3 Certification](https://cmmiinstitute.com/)
+
+![NIST Cybersecurity Framework](https://img.shields.io/badge/NIST%20Cybersecurity%20Framework-Compliant-brightgreen)
+[NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+
+![FedRAMP](https://img.shields.io/badge/FedRAMP-Compliant-brightgreen)
+[FedRAMP Compliance](https://www.fedramp.gov/)
+
+![ITIL Certification](https://img.shields.io/badge/ITIL-Certified-brightgreen)
+[ITIL Certification](https://www.axelos.com/best-practice-solutions/itil)
+
+![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Professional-brightgreen)
+[AWS Certification](https://aws.amazon.com/certification/)
+
+![Microsoft Certified](https://img.shields.io/badge/Microsoft%20Certified-Professional-brightgreen)
+[Microsoft Certification](https://www.microsoft.com/en-us/learning/certification-overview.aspx)
+
+![Cisco Certified](https://img.shields.io/badge/Cisco%20Certified-Professional-brightgreen)
+[Cisco Certification](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
+
+![CompTIA Certified](https://img.shields.io/badge/CompTIA-Certified-brightgreen)
+[CompTIA Certification](https://www.comptia.org/certifications)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/egaia-core">EGaia</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # egaia-core
