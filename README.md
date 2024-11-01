@@ -1,2 +1,2 @@
 # egaia-core
-The egaia-core repository serves as the foundational framework for Project EGaia, encompassing essential algorithms, data models, and tools for ecological restoration initiatives.
+The egaia-core repository serves as the foundational framework for Project EGaia, encompassing essential algorithms, data models, and tools for ecological restoration initiatives. This core library integrates biotechnology and AI-driven solutions to facilitate the development of resilient plant species, optimize reforestation efforts, and monitor ecosystem health. Designed for collaboration and scalability, egaia-core empowers researchers, developers, and environmentalists to contribute to sustainable practices and biodiversity restoration efforts worldwide.
