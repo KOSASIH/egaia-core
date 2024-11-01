@@ -46,6 +46,17 @@
 ![CompTIA Certified](https://img.shields.io/badge/CompTIA-Certified-brightgreen)
 [CompTIA Certification](https://www.comptia.org/certifications)
 
+[![UN Global Compact](https://img.shields.io/badge/UN%20Global%20Compact-Participant-blue)](https://www.unglobalcompact.org/)
+[![B Corporation](https://img.shields.io/badge/B%20Corporation-Certified-brightgreen)](https://bcorporation.net/)
+[![LEED Certification](https://img.shields.io/badge/LEED%20Certification-Gold-brightgreen)](https://www.usgbc.org/leed)
+[![Fair Trade Certified](https://img.shields.io/badge/Fair%20Trade%20Certified-Yes-brightgreen)](https://www.fairtrade.net/)
+[![ISO 50001:2018](https://img.shields.io/badge/ISO%2050001:2018-Certified-brightgreen)](https://www.iso.org/iso-50001-energy-management.html)
+[![SA8000 Certification](https://img.shields.io/badge/SA8000-Certified-brightgreen)](https://www.sai-global.com/)
+[![Green Seal Certified](https://img.shields.io/badge/Green%20Seal-Certified-brightgreen)](https://www.greenseal.org/)
+[![Energy Star Certified](https://img.shields.io/badge/Energy%20Star-Certified-brightgreen)](https://www.energystar.gov/)
+[![ISO 22301:2019](https://img.shields.io/badge/ISO%2022301:2019-Certified-brightgreen)](https://www.iso.org/iso-22301-business-continuity.html)
+[![ISO 13485:2016](https://img.shields.io/badge/ISO%2013485:2016-Certified-brightgreen)](https://www.iso.org/iso-13485-medical-devices.html)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/egaia-core">EGaia</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # egaia-core
